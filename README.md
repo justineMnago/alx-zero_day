@@ -1,2 +1,1 @@
-my first readme
-my seond one
+this is me
